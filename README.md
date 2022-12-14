@@ -5,11 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mayur-jethwa)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@mayyyur/videos)
 
-AsSsAsSiN’s#6628
-
 I'm a currently pursuing B.E in Computer Engineering 🎓 from Mumbai University 🏛. I'm a enthusiastic learner who is eager to learn and work across new technologies and domains 💡. I'm currently into Web & App Development and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mayyyur/mayyyur/main/code.gif" />
 
 
 ### Talking about Personal Stuffs:
@@ -44,8 +42,7 @@ I'm a currently pursuing B.E in Computer Engineering 🎓 from Mumbai University
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayyyur&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayyyur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayyyur&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" /> &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayyyur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
@@ -59,7 +56,7 @@ I'm a currently pursuing B.E in Computer Engineering 🎓 from Mumbai University
   <summary><b>🏷️ Holopin Badges</b></summary>
 
   <br />
-  <p><a href="https://holopin.io/@denvercoder1"><img height="300em" src="https://holopin.me/mayyyur" alt="@denvercoder1&#39;s Holopin board"></a></p>
+  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/mayyyur" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
 
 <!---
